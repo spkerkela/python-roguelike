@@ -1,0 +1,11 @@
+#python spesific
+*.pyc
+savegame
+parsertest.py
+## generic
+
+*~
+*.lock
+*.DS_store
+*.swp
+*.out
